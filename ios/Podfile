@@ -43,7 +43,6 @@ def common_pods
   # RN pods end
 
   # Manually linked dependencies
-<<<<<<< HEAD
   pod 'react-native-camera', :path => '../node_modules/react-native-camera'
   pod 'react-native-ble-plx', :path => '../node_modules/react-native-ble-plx'
   pod 'react-native-ble-plx-swift', :path => '../node_modules/react-native-ble-plx'
@@ -51,9 +50,7 @@ def common_pods
   pod 'react-native-google-maps', :path => '../node_modules/react-native-maps'
   pod 'react-native-geocoder', :path => '../node_modules/react-native-geocoder'
   pod 'RNArcGISMapView', :path => "../node_modules/react-native-arcgis-mapview/ios"
-=======
   pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
->>>>>>> ffd1dc77223e335d601dee108f0de21b0e806e42
 
   # Third party dependencies of dependencies
   pod 'IQKeyboardManager'
