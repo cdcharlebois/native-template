@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-platform :ios, '10.0'
+platform :ios, '11.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
 def common_pods
@@ -47,6 +47,7 @@ def common_pods
   pod 'react-native-maps', :path => '../node_modules/react-native-maps'
   pod 'react-native-google-maps', :path => '../node_modules/react-native-maps'
   pod 'react-native-geocoder', :path => '../node_modules/react-native-geocoder'
+  pod 'RNArcGISMapView', :path => "../node_modules/react-native-arcgis-mapview/ios"
 
   # Third party dependencies of dependencies
   pod 'GoogleMaps'
