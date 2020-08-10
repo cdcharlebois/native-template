@@ -756,18 +756,15 @@ SPEC CHECKSUMS:
   ReactCommon: 198c7c8d3591f975e5431bec1b0b3b581aa1c5dd
   ReactNativeART: 78edc68dd4a1e675338cd0cd113319cf3a65f2ab
   ReactNativeDarkMode: 0178ffca3b10f6a7c9f49d6f9810232b328fa949
-<<<<<<< HEAD
   RNArcGISMapView: 85b8bd9fcc6c89267bda0ed81a0f28912b935768
   RNCAsyncStorage: 00bdf63f7f1e0f11d3323533dba4f222e58bf092
   RNCMaskedView: 90dd32f5b786bd562e876e1421ea77c700cbf71e
   RNDateTimePicker: d7d3dde9497b4bd4b3ea84881c41d3f0ece481f5
   RNDeviceInfo: 67607dfe9cfbed105838144c40187a8392aa404d
-=======
   RNCAsyncStorage: e0dd7c8a36543b4ef84969acd9f8aceba3a92dc2
   RNCMaskedView: 76c40a1d41c3e2535df09246a2b5487f04de0814
   RNDateTimePicker: 63e79b1e0dc6da8806ed8cf76e8528f7f88bcbc3
   RNDeviceInfo: 310c1f43d418d950a193c7650de2f9559c906048
->>>>>>> ffd1dc77223e335d601dee108f0de21b0e806e42
   RNFastImage: 35ae972d6727c84ee3f5c6897e07f84d0a3445e9
   RNFirebase: 37daa9a346d070f9f6ee1f3b4aaf4c8e3b1d5d1c
   RNGestureHandler: dde546180bf24af0b5f737c8ad04b6f3fa51609a
@@ -783,10 +780,6 @@ SPEC CHECKSUMS:
   TouchID: ba4c656d849cceabc2e4eef722dea5e55959ecf4
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
-<<<<<<< HEAD
-PODFILE CHECKSUM: 885f3d3d12f2307917ae9a862b45aa691a2e25ed
-=======
 PODFILE CHECKSUM: 0cebfb2ab0abcf7ed7edc73265786a8151a4458d
->>>>>>> ffd1dc77223e335d601dee108f0de21b0e806e42
 
 COCOAPODS: 1.9.3
